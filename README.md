@@ -13,15 +13,15 @@ Clean and organized code structure for easy customization.
 # Screenshots:
 Login Page
 
-<img src="https://github.com/Sourav0174/LoginPageUI/assets/146104055/cbe776a3-0d24-4588-8778-98c63732ed00" width = 400 >
+<img src="https://github.com/Sourav0174/LoginPageUI/assets/146104055/cbe776a3-0d24-4588-8778-98c63732ed00" width = 200 >
 
 Sign up page
 
-<img src="https://github.com/Sourav0174/LoginPageUI/assets/146104055/bde42883-2d18-439f-b793-f36cd2c200da" width = 400 >
+<img src="https://github.com/Sourav0174/LoginPageUI/assets/146104055/bde42883-2d18-439f-b793-f36cd2c200da" width = 200 >
 
 welcome page
 
-<img src="https://github.com/Sourav0174/LoginPageUI/assets/146104055/0aa3eac9-f4c5-4295-b465-2045fae0ceb8" width = 400 >
+<img src="https://github.com/Sourav0174/LoginPageUI/assets/146104055/0aa3eac9-f4c5-4295-b465-2045fae0ceb8" width = 200 >
 
 
 
